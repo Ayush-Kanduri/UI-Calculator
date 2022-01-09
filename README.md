@@ -1,2 +1,2 @@
-# UI-Calculator
-An amazing UI Calculator Project with a working same as windows calculator.
+# Project-Calculator
+This is a Calculator which is coded in : HTML, CSS, JS (jQuery &amp; DOM).
