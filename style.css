@@ -93,3 +93,12 @@ p::-webkit-scrollbar {
 	overflow: hidden;
 	display: none;
 }
+
+@media screen and (max-width: 360px) {
+	#calculator {
+		min-width: 298px;
+	}
+	button {
+		font-size: 1.2rem;
+	}
+}
