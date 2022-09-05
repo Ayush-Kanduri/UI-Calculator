@@ -1,5 +1,5 @@
 # 𝐒𝐭𝐲𝐥𝐢𝐬𝐡 𝐔𝐈 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐨𝐫 🚀
-
+ 
 <br/>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/76626529/185205546-79932b62-1970-4157-8f17-32a8ce2344da.png"> 
